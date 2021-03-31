@@ -1,6 +1,6 @@
 streamlit==0.79.0
 scikit-image==0.16.2
-scikit-learn @ file:///C:/ci/scikit-learn_1592853510272/work
+scikit-learn==0.23.1
 numpy==1.18.5
-matplotlib @ file:///C:/ci/matplotlib-base_1592837548929/work
-pandas @ file:///C:/ci/pandas_1592833613419/work
+matplotlib==3.2.2
+pandas==1.0.5
