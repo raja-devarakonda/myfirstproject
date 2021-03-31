@@ -1,1 +1,1 @@
-scikit-learn-python
+sklearn-python
